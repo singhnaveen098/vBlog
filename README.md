@@ -1,5 +1,5 @@
 # vBlog
- Blog app for mobile in react native using firebase as backend.
+ Personal Notes or Blog app for mobile in react native using firebase as backend.
  
  To Run the app:
  1. First start AVD in your device.
